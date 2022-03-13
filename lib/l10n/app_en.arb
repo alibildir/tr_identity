@@ -1,0 +1,20 @@
+{
+  "helloWorld": "T.R. Idendity Application",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "queriedID":"Please input your TR Idendity Number here",
+  "queriedName":"Please input your name here",
+  "queriedSurname":"Please input your surname",
+  "queriedBirthYear":"Please input your year of birthday",
+  "verify":"Verify Rot ID",
+  "agnate":"Find Agnate",
+  "validate_not_null":"You have to enter valid identity number",
+  "agnate_result":"Agnate Results",
+  "elder":"Elder",
+  "younger":"Younger",
+  "result":"Result : ",
+  "verify_verified":"The information entered has been verified",
+  "verify_not_verified": "The information entered could not be verified",
+  "verify_technical_error":"The Population Citizenship service could not be accessed. Check your internet connection and try again later."
+}

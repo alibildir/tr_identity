@@ -1,0 +1,20 @@
+{
+  "helloWorld": "TC Kimlik Numarası Uygulaması",
+  "@helloWorld": {
+    "description": "Yazılıma yeni başlayanlar için bir gelenektir."
+  },
+  "queriedID":"Lütfen TC Kimlik Numaranızı giriniz",
+  "queriedName":"Lütfen adınızı buraya giriniz.",
+  "queriedSurname":"Lütfen soyadınızı buraya giriniz.",
+  "queriedBirthYear":"Lütfen doğum yılınızı buraya giriniz.",
+  "verify":"TC Kimlik Doğrula",
+  "agnate":"Akraba Bul",
+  "validate_not_null":"Geçerli bir TC Kimlik numarası girmelisiniz.",
+  "agnate_result":"Akraba Sonuçları",
+  "elder":"Atası",
+  "younger":"Küçüğü",
+  "result":"Sonuç : ",
+  "verify_verified":"Girilen bilgiler doğrulanmıştır",
+  "verify_not_verified": "Girilen bilgiler doğrulanamamıştır",
+  "verify_technical_error":"Nüfus Vatandaşlık servisine erişilememiştir. İnternet bağlantınızı kontrol ediniz ve daha sonra tekrar deneyiniz."
+}
